@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Hana Mohamed</h1>
-<h3 align="center">A passionate computer science student from Egypt</h3>
+<h1 align="center">Hi, I'm Hana M. AbdElHamid</h1>
+<h3 align="center">A passionate Frontend Web Developer from Egypt</h3>
 
 ---
 
